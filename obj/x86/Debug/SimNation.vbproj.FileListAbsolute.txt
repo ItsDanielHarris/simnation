@@ -1,0 +1,14 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SimNation\bin\Debug\SimNation.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SimNation\bin\Debug\SimNation.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SimNation\bin\Debug\SimNation.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SimNation\bin\Debug\SimNation.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SimNation\obj\x86\Debug\SimNation.vbprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SimNation\obj\x86\Debug\SimNation.About.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SimNation\obj\x86\Debug\SimNation.Difficulty.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SimNation\obj\x86\Debug\SimNation.Main.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SimNation\obj\x86\Debug\SimNation.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SimNation\obj\x86\Debug\SimNation.War.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SimNation\obj\x86\Debug\SimNation.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SimNation\obj\x86\Debug\SimNation.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SimNation\obj\x86\Debug\SimNation.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SimNation\obj\x86\Debug\SimNation.pdb
